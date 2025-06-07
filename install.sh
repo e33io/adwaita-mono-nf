@@ -23,10 +23,10 @@ echo "#########################################################"
 echo "Copy font files to the truetype directory"
 echo "#########################################################"
 
-sudo cp -R $HOME/temp-fonts/AdwaitaMono/AdwaitaMono /usr/share/fonts/truetype
-sudo cp -R $HOME/temp-fonts/AdwaitaMono/AdwaitaMono-Nerd /usr/share/fonts/truetype
-sudo cp -R $HOME/temp-fonts/AdwaitaMono/AdwaitaMono-Nerd-Mono /usr/share/fonts/truetype
-sudo cp -R $HOME/temp-fonts/AdwaitaMono/AdwaitaMono-Nerd-Propo /usr/share/fonts/truetype
+sudo cp -R $HOME/temp-fonts/AdwaitaMono /usr/share/fonts/truetype
+sudo cp -R $HOME/temp-fonts/AdwaitaMono-Nerd /usr/share/fonts/truetype
+sudo cp -R $HOME/temp-fonts/AdwaitaMono-Nerd-Mono /usr/share/fonts/truetype
+sudo cp -R $HOME/temp-fonts/AdwaitaMono-Nerd-Propo /usr/share/fonts/truetype
 
 echo "#########################################################"
 echo "Clean up temp files and cache fonts"
