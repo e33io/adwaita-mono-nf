@@ -23,7 +23,7 @@ echo "#########################################################"
 echo "Copy font files to the truetype directory"
 echo "#########################################################"
 
-if [ ! -d "/usr/share/fonts/adwaita-mono-fonts" ]; then
+if ! { [ -d "/usr/share/fonts/adwaita-mono-fonts" ] || [ -d "/usr/share/fonts/Adwaita" ]; }; then
     sudo cp -R $HOME/temp-fonts/AdwaitaMono/ /usr/share/fonts/truetype
 fi
 sudo cp -R $HOME/temp-fonts/AdwaitaMono-Nerd/ /usr/share/fonts/truetype
