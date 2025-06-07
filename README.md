@@ -5,10 +5,10 @@ AdwaitaMono Nerd Font
 &nbsp;
 
 [AdwaitaMono](https://gitlab.gnome.org/GNOME/adwaita-fonts/-/tree/main/mono) with additional [Nerd Font](https://www.nerdfonts.com) patched versions
-- [AdwaitaMono](https://github.com/e33io/adwaita-mono-nf/tree/main/AdwaitaMono/AdwaitaMono)
-- [AdwaitaMono Nerd Font](https://github.com/e33io/adwaita-mono-nf/tree/main/AdwaitaMono/AdwaitaMono-Nerd)
-- [AdwaitaMono Nerd Font Mono](https://github.com/e33io/adwaita-mono-nf/tree/main/AdwaitaMono/AdwaitaMono-Nerd-Mono)
-- [AdwaitaMono Nerd Font Propo](https://github.com/e33io/adwaita-mono-nf/tree/main/AdwaitaMono/AdwaitaMono-Nerd-Propo)
+- [AdwaitaMono](https://github.com/e33io/adwaita-mono-nf/tree/main/AdwaitaMono)
+- [AdwaitaMono Nerd Font](https://github.com/e33io/adwaita-mono-nf/tree/main/AdwaitaMono-Nerd)
+- [AdwaitaMono Nerd Font Mono](https://github.com/e33io/adwaita-mono-nf/tree/main/AdwaitaMono-Nerd-Mono)
+- [AdwaitaMono Nerd Font Propo](https://github.com/e33io/adwaita-mono-nf/tree/main/AdwaitaMono-Nerd-Propo)
 
 &nbsp;
 
